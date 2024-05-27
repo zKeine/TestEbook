@@ -1,0 +1,98 @@
+.img{
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    object-position: top;
+    border-width: 2px;
+    border-style: solid;
+    border-color: gray;
+    margin-left: 160px;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 130px;
+    display: inline-box;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(75, 69, 136);
+}
+.p{
+    margin-left: 230px;
+    margin-top: -120px;
+    font-family: san-serif;
+    font-size: 16px;
+    color: gold;
+}
+.n{
+    margin-left: 260px;
+    margin-top: -10px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(33, 212, 173);
+}
+.r{
+    margin-left: 240px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(255, 255, 255);
+    color: black
+    font-family: sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.Title{
+    background-color: aqua;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 50px;
+}
+.search{
+   
+    margin-left: 580px;
+    display: block;
+    padding-top: 15px;
+   font-size: 30px;
+    text-align: left;
+}
+.theone{
+    display: inline-block;
+}
+.thesec{
+    display: inline-block;
+}
+.thethird{
+    display: inline-block;
+}
+.p2{
+    margin-left: 290px;
+    margin-top: -120px;
+    font-family: san-serif;
+    font-size: 16px;
+    color: gold;
+}
+.n2{
+    margin-left: 238px;
+    margin-top: -10px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(33, 212, 173);
+}
+.p3{
+    margin-left: 250px;
+    margin-top: -120px;
+    font-family: san-serif;
+    font-size: 16px;
+    color: gold;
+}
+.n3{
+    margin-left: 280px;
+    margin-top: -10px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(33, 212, 173);
+}
